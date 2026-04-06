@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# قاعدة البيانات المحلية (لا تُرفع على GitHub)
+bot_data.db
+
+# ملف الإعدادات المحلية (إذا أنشأته)
+.env
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
